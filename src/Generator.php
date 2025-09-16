@@ -2,6 +2,7 @@
 
 namespace Vyuldashev\LaravelOpenApi;
 
+use GoldSpecDigital\ObjectOrientedOAS\Objects\SecurityRequirement;
 use GoldSpecDigital\ObjectOrientedOAS\OpenApi;
 use Illuminate\Support\Arr;
 use Vyuldashev\LaravelOpenApi\Builders\ComponentsBuilder;
